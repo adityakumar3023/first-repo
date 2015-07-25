@@ -10,3 +10,4 @@ files in one commit, while others, like Google Docs, treat each file separately?
 what is going on?
 i am reading a book today
 whats up dear
+this is hot today
