@@ -1,3 +1,7 @@
 # first-repo
 this is a file i maded on github,that is online
+<<<<<<< HEAD
 this file i modified on local computer
+=======
+i am modifying the file online on github
+>>>>>>> origin/master
